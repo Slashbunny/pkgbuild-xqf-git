@@ -1,4 +1,5 @@
 pkg/
 src/
 xqf/
-*.pkg.tar.xz
+crunch/
+*.pkg.tar.zst
